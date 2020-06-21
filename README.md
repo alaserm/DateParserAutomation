@@ -1,6 +1,6 @@
 # Date Parser Test Automation Scripts
 
-**Requrements**: Windows 7+, Chrome Browser, Excel (optional, not needed for test execution, but needed if you want to view/edit attached Excel files), ExlJS test automation tool (this tool is ideal for data-driven automation out of the box)
+**Requrements**: Windows 7+, Chrome Browser, Excel (optional, not needed for test execution, but needed if you want to view/edit attached Excel files), ExlJS test automation tool (ideal for data-driven automation out of the box, [read about it](https://github.com/alaserm/VisualTAF/blob/master/README.md) )
 
 
 You can download ExlJS test automation tool bundled with Date Parser test scripts from [here](http://23.236.144.243/VisualTAF/ExlJS-tool-bundled-with-DateParser-test-scriptsl.zip).
@@ -21,7 +21,9 @@ You can download ExlJS test automation tool bundled with Date Parser test script
 
 
 **Notes**
+
 To edit test artifact (test cases, object repo, instructions) right-click on the item and select "Edit/view this asset" option.
 Automated Test cases + associated test data contained in Excel files.
 To view instruction code from Excel file click on instruction in Keyword column and then press CTRL+SHIFT+G
+
 To quickly navigate to test data, click on cell in "Input" column and press CTRL+SHifT+G
